@@ -1,0 +1,363 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.box
+{
+    background-color: white;
+    width: 86mm;
+    height: 54mm;
+    border-style:solid;
+    border-color: black;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.boxx
+{
+    background-color: white;
+    width: 86mm;
+    height: 54mm;
+    border-style:solid;
+    border-color: black;
+    margin-left: 400px;
+    margin-top: -208px;
+}
+#smally
+{
+    margin-top: 1px;
+    width: 5%;
+    height: 20px;
+}
+#secondline
+{
+    font-size: 5px;
+    font-family: 'Source Sans 3', sans-serif;
+    letter-spacing: .5px;
+    margin-top: -2px;
+    padding-bottom: 1px;
+}
+#thirdline
+{
+    font-size: 10px;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: .6px;
+    margin-top: -1px;
+    color: rgb(4, 58, 116);
+}
+#fourthline
+{
+    font-size: 5px;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(4, 58, 116);
+    letter-spacing: .4px;
+    margin-top: -1px;
+}
+#fifthline
+{
+    font-size: 5.5px;
+    margin-top: 2px;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: .5px;
+    margin-left: -50px;
+}
+#sixthline
+{
+    font-size: 5.5px;
+    margin-left: 35px;
+    margin-top: -6.6px;
+    font-family: 'Lato', sans-serif;
+}
+.hok
+{
+    padding-top: -2px;
+    margin-left: 13px;
+}
+#heading
+{
+    font-size: 8px;
+    text-decoration: underline;
+    padding-left: 3px;
+    font-family: 'Source Sans 3', sans-serif;
+    color: rgb(4, 58, 116);
+}
+#name
+{
+    font-size: 7px;
+    padding-left: 3px;
+    margin-top: -105px;
+    font-family: 'Raleway', sans-serif;
+}
+#namy
+{
+    font-size: 7px;
+    margin-left: 200px;
+    margin-top: -10px;
+    font-family: 'Mukta', sans-serif;
+}
+#age
+{
+    font-size: 7px;
+    padding-left: 3px;
+    padding-top: 6px;
+    font-family: 'Raleway', sans-serif;
+}
+#agy
+{
+font-size: 7px;
+margin-left: 200px;
+margin-top: -10px;
+font-family: 'Mukta', sans-serif;
+}
+#gender
+{
+    font-size: 7px;
+    padding-left: 3px;
+    padding-top: 6px;
+    font-family: 'Raleway', sans-serif;
+}
+#gendy
+{
+    font-size: 7px;
+    margin-left: 200px;
+    margin-top: -10px;
+    font-family: 'Mukta', sans-serif;
+}
+
+#idg
+{
+    font-size: 7px;
+    padding-left: 3px;
+    padding-top: 6px;
+    font-family: 'Raleway', sans-serif;
+}
+#idy
+{
+    font-size: 7px;
+    margin-left: 200px;
+    margin-top: -10px;
+    font-family: 'Mukta', sans-serif;
+}
+#uni
+{
+    font-size: 7px;
+    padding-left: 3px;
+    padding-top: 6px;
+    font-family: 'Raleway', sans-serif;
+}
+#uny
+{
+    font-size: 7px;
+    margin-left: 200px;
+    margin-top: -10px;
+    font-family: 'Mukta', sans-serif;
+}
+#beni
+{
+    font-size: 7px;
+    padding-left: 3px;
+    padding-top: 6px;
+    font-family: 'Raleway', sans-serif;
+}
+#beny
+{
+    font-size: 7px;
+    margin-left: 200px;
+    margin-top: -10px;
+    font-family: 'Mukta', sans-serif;
+}
+#beniio
+{
+    font-size: 7px;
+    padding-left: 3px;
+    padding-top: 6px;
+    font-family: 'Raleway', sans-serif;
+}
+#benyyo
+{
+    font-size: 7px;
+    margin-left: 200px;
+    margin-top: -10px;
+    font-family: 'Mukta', sans-serif;
+}
+
+#water
+{
+    width: 20%;
+    opacity: 50%;
+}
+
+.boxy
+{
+    margin-top: 2px;
+    margin-left: 5px;
+}
+@media print {
+    *{ color-adjust: exact;  -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+}
+
+
+#headingg
+{
+    font-size: 8px;
+    text-decoration: underline;
+    padding-left: 8px;
+    padding-top: 5px;
+    font-family: 'Source Sans 3', sans-serif;
+    color: rgb(4, 58, 116);
+}
+
+.boky
+{
+    margin-top: 110px;
+    padding-left: 5px;
+    
+}
+
+#namee
+{
+    font-size: 7px;
+    padding-left: 3px;
+    margin-top: -105px;
+    font-family: 'Raleway', sans-serif;
+}
+#namyy
+{
+    font-size: 7px;
+    margin-left: 185px;
+    margin-top: -10px;
+    font-family: 'Mukta', sans-serif;
+}
+#agee
+{
+    font-size: 7px;
+    padding-left: 3px;
+    padding-top: 2px;
+    font-family: 'Raleway', sans-serif;
+}
+#agyy
+{
+font-size: 7px;
+margin-left: 185px;
+margin-top: -10px;
+font-family: 'Mukta', sans-serif;
+}
+#genderr
+{
+    font-size: 7px;
+    padding-left: 3px;
+    padding-top: 2px;
+    font-family: 'Raleway', sans-serif;
+}
+#gendyy
+{
+    font-size: 7px;
+    margin-left: 185px;
+    margin-top: -10px;
+    font-family: 'Mukta', sans-serif;
+}
+
+#idgg
+{
+    font-size: 7px;
+    padding-left: 3px;
+    padding-top: 2px;
+    font-family: 'Raleway', sans-serif;
+}
+#idyy
+{
+    font-size: 7px;
+    margin-left: 185px;
+    margin-top: -10px;
+    font-family: 'Mukta', sans-serif;
+}
+#idyyg
+{
+    font-size: 7px;
+    margin-left: 235px;
+    margin-top: -12px;
+    font-family: 'Mukta', sans-serif;
+}
+#unii
+{
+    font-size: 7px;
+    padding-left: 3px;
+    padding-top: 2px;
+    font-family: 'Raleway', sans-serif;
+}
+#unyy
+{
+    font-size: 7px;
+    margin-left: 185px;
+    margin-top: -10px;
+    font-family: 'Mukta', sans-serif;
+}
+#unyyg
+{
+    font-size: 7px;
+    margin-left: 235px;
+    margin-top: -12px;
+    font-family: 'Mukta', sans-serif;
+}
+#benii
+{
+    font-size: 7px;
+    padding-left: 3px;
+    padding-top: 2px;
+    font-family: 'Raleway', sans-serif;
+}
+#benyy
+{
+    font-size: 7px;
+    margin-left: 185px;
+    margin-top: -10px;
+    font-family: 'Mukta', sans-serif;
+}
+#benyyg
+{
+    font-size: 7px;
+    margin-left: 235px;
+    margin-top: -12px;
+    font-family: 'Mukta', sans-serif;
+}
+#beniii
+{
+    font-size: 7px;
+    padding-left: 3px;
+    padding-top: 2px;
+    font-family: 'Raleway', sans-serif;
+}
+#benyyy
+{
+    font-size: 7px;
+    margin-left: 185px;
+    margin-top: -10px;
+    font-family: 'Mukta', sans-serif;
+}
+#lasty
+{
+    width: 320px;
+    height: 75px;
+    margin-left: 2.2px;
+    margin-top: -2px;
+}
+.pri
+        {
+            width: 150px;
+            height: 60px;
+            margin-left: 300px;
+            margin-top: 30px;
+            background-color: rgb(3, 111, 162);
+            border: solid;
+            font-family: 'Do Hyeon', sans-serif;
+            font-size: 40px;
+        }
+        .pri:hover
+        {
+            background-color: rgb(175, 194, 0);
+        }
+
+
+
+
